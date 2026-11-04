@@ -1,0 +1,41 @@
+# Site Watch config. Each watcher checks one page and alerts when a NEW link appears
+# whose title or URL contains one of the keywords. The first run of a watcher only
+# records existing links (baseline) and sends nothing.
+#
+# Watcher fields:
+#   name                  unique id, no spaces (required)
+#   url                   page to check (required)
+#   description           friendly name used in alert titles
+#   keywords              list; case-insensitive; "GEA-7" also matches "GEA 7". Empty = alert on every new link
+#   regex                 optional regex, used in addition to keywords
+#   selector              optional CSS selector to only read links inside part of the page (cuts noise)
+#   href_pattern          optional regex the link URL must match (e.g. "\\.pdf$")
+#   email_to              extra email recipients for this watcher (EMAIL_TO secret always included)
+#   teams_webhook_secret  name of the repo secret holding this watcher's Teams webhook
+#                         (default: TEAMS_WEBHOOK_URL)
+#   verify_ssl            set false only if the site has a broken certificate
+#   enabled               set false to pause
+
+defaults:
+  alert_after_failures: 3   # consecutive failed checks before a "monitor broken" alert
+  verify_ssl: true
+  email_to: []
+
+watchers:
+  - name: doe-geap-gea7
+    description: DOE Green Energy Auction page (GEA-7)
+    url: https://doe.gov.ph/geap   # check this in a browser first and update if DOE has moved it
+    keywords:
+      - GEA-7
+      - GEA7
+      - seventh green energy auction
+      - 7th green energy auction
+      - seventh round
+
+  # Example: a second site going to its own Teams channel
+  # - name: erc-news
+  #   description: ERC news releases
+  #   url: https://www.erc.gov.ph/...
+  #   keywords: [green energy auction, GEAR price]
+  #   teams_webhook_secret: TEAMS_WEBHOOK_ERC
+  #   enabled: false
