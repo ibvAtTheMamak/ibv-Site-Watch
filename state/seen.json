@@ -1,7 +1,7 @@
 {
   "doe-geap-gea7": {
     "failures": 0,
-    "last_ok": "2026-11-05T02:47:29+00:00",
+    "last_ok": "2026-11-05T03:12:22+00:00",
     "seen": [
       "https://doe.gov.ph/data/microgrid-mapping",
       "https://doe.gov.ph/fuel-subsidy-program-participating-stations-as-of-15-june-2026",
@@ -76,7 +76,7 @@
   },
   "test-hn": {
     "failures": 0,
-    "last_ok": "2026-11-05T02:47:30+00:00",
+    "last_ok": "2026-11-05T03:12:23+00:00",
     "seen": [
       "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
       "https://news.ycombinator.com/from?site=nasa.gov",
@@ -140,7 +140,29 @@
       "https://jsomers.net/hn/",
       "https://news.ycombinator.com/from?site=jsomers.net",
       "https://github.com/akshit-bansal11/edgepad",
-      "https://news.ycombinator.com/from?site=github.com/akshit-bansal11"
+      "https://news.ycombinator.com/from?site=github.com/akshit-bansal11",
+      "https://infiniteslop.ai/",
+      "https://news.ycombinator.com/from?site=infiniteslop.ai",
+      "https://twitter.com/DjimoSerodio/status/2118157383369396289",
+      "https://news.ycombinator.com/from?site=twitter.com/djimoserodio",
+      "https://dictionary.cambridge.org/grammar/british-grammar/adjectives-order",
+      "https://news.ycombinator.com/from?site=cambridge.org",
+      "https://arxiv.org/abs/2610.18651",
+      "https://news.ycombinator.com/from?site=arxiv.org",
+      "https://www.readfp.com/chapters/how-a-rocket-engine-works",
+      "https://news.ycombinator.com/from?site=readfp.com",
+      "https://remoworld.com/",
+      "https://news.ycombinator.com/from?site=remoworld.com",
+      "https://videotranscriber.ai/",
+      "https://news.ycombinator.com/from?site=videotranscriber.ai",
+      "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
+      "https://news.ycombinator.com/from?site=nytimes.com",
+      "https://trello.com/power-ups/6ae62312ef3825846d6e2499/table-view-%E2%9D%A4%EF%B8%8F",
+      "https://news.ycombinator.com/from?site=trello.com",
+      "https://notedge.app",
+      "https://news.ycombinator.com/from?site=notedge.app",
+      "https://www.brennanmceachran.com/trolley-tests/",
+      "https://news.ycombinator.com/from?site=brennanmceachran.com"
     ]
   }
 }
