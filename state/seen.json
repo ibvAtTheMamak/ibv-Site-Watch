@@ -1,7 +1,7 @@
 {
   "doe-geap-gea7": {
     "failures": 0,
-    "last_ok": "2026-11-05T03:12:22+00:00",
+    "last_ok": "2026-11-05T03:31:31+00:00",
     "seen": [
       "https://doe.gov.ph/data/microgrid-mapping",
       "https://doe.gov.ph/fuel-subsidy-program-participating-stations-as-of-15-june-2026",
@@ -76,7 +76,7 @@
   },
   "test-hn": {
     "failures": 0,
-    "last_ok": "2026-11-05T03:12:23+00:00",
+    "last_ok": "2026-11-05T03:31:31+00:00",
     "seen": [
       "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
       "https://news.ycombinator.com/from?site=nasa.gov",
@@ -162,7 +162,21 @@
       "https://notedge.app",
       "https://news.ycombinator.com/from?site=notedge.app",
       "https://www.brennanmceachran.com/trolley-tests/",
-      "https://news.ycombinator.com/from?site=brennanmceachran.com"
+      "https://news.ycombinator.com/from?site=brennanmceachran.com",
+      "https://lettersfrombethlehem.substack.com/p/why-isnt-retatrutide-approved-yet",
+      "https://news.ycombinator.com/from?site=lettersfrombethlehem.substack.com",
+      "https://twitter.com/OpenAI/status/2118119451401048497",
+      "https://news.ycombinator.com/from?site=twitter.com/openai",
+      "https://burbank-ledger.pages.dev/articles/manpowergroup-experis-corporate-finance-audit/",
+      "https://news.ycombinator.com/from?site=burbank-ledger.pages.dev",
+      "https://whiteteelab.com/",
+      "https://news.ycombinator.com/from?site=whiteteelab.com",
+      "https://www.primeintellect.ai/blog/auditing-public-evaluations",
+      "https://news.ycombinator.com/from?site=primeintellect.ai",
+      "https://crateh.com/en",
+      "https://news.ycombinator.com/from?site=crateh.com",
+      "https://magiclayers.net",
+      "https://news.ycombinator.com/from?site=magiclayers.net"
     ]
   }
 }
