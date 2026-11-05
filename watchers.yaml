@@ -32,8 +32,3 @@ watchers:
       - 7th green energy auction
       - seventh round
 
-  - name: test-hn
-    description: TEST - Hacker News newest
-    url: https://news.ycombinator.com/newest
-    selector: span.titleline
-    keywords: []
