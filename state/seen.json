@@ -1,7 +1,7 @@
 {
   "doe-geap-gea7": {
     "failures": 0,
-    "last_ok": "2026-11-05T02:39:47+00:00",
+    "last_ok": "2026-11-05T02:47:29+00:00",
     "seen": [
       "https://doe.gov.ph/data/microgrid-mapping",
       "https://doe.gov.ph/fuel-subsidy-program-participating-stations-as-of-15-june-2026",
@@ -76,7 +76,7 @@
   },
   "test-hn": {
     "failures": 0,
-    "last_ok": "2026-11-05T02:39:48+00:00",
+    "last_ok": "2026-11-05T02:47:30+00:00",
     "seen": [
       "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
       "https://news.ycombinator.com/from?site=nasa.gov",
@@ -136,7 +136,11 @@
       "https://www.youtube.com/watch?v=P74qS4zYmis",
       "https://news.ycombinator.com/from?site=youtube.com",
       "https://github.com/bewithkhan/bansat",
-      "https://news.ycombinator.com/from?site=github.com/bewithkhan"
+      "https://news.ycombinator.com/from?site=github.com/bewithkhan",
+      "https://jsomers.net/hn/",
+      "https://news.ycombinator.com/from?site=jsomers.net",
+      "https://github.com/akshit-bansal11/edgepad",
+      "https://news.ycombinator.com/from?site=github.com/akshit-bansal11"
     ]
   }
 }
