@@ -1,7 +1,7 @@
 {
   "doe-geap-gea7": {
     "failures": 0,
-    "last_ok": "2026-11-05T04:00:52+00:00",
+    "last_ok": "2026-11-05T04:10:28+00:00",
     "seen": [
       "https://doe.gov.ph/data/microgrid-mapping",
       "https://doe.gov.ph/fuel-subsidy-program-participating-stations-as-of-15-june-2026",
@@ -76,7 +76,7 @@
   },
   "test-hn": {
     "failures": 0,
-    "last_ok": "2026-11-05T04:00:52+00:00",
+    "last_ok": "2026-11-05T04:10:29+00:00",
     "seen": [
       "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
       "https://news.ycombinator.com/from?site=nasa.gov",
@@ -196,7 +196,18 @@
       "https://news.ycombinator.com/from?site=klaxon.live",
       "https://arxiv.org/abs/2609.32778",
       "https://uce.ryzova.com/analyze",
-      "https://news.ycombinator.com/from?site=ryzova.com"
+      "https://news.ycombinator.com/from?site=ryzova.com",
+      "https://github.com/hypereffect/hyperb",
+      "https://news.ycombinator.com/from?site=github.com/hypereffect",
+      "https://github.com/ohhbeehave35-commits/rack-community",
+      "https://news.ycombinator.com/from?site=github.com/ohhbeehave35-commits",
+      "https://www.rendro.net",
+      "https://news.ycombinator.com/from?site=rendro.net",
+      "https://pgdog.dev/blog/distribution",
+      "https://news.ycombinator.com/from?site=pgdog.dev",
+      "https://developer.doordash.com/en-US/mcp/",
+      "https://news.ycombinator.com/from?site=doordash.com",
+      "https://news.ycombinator.com/item?id=50374984"
     ]
   }
 }
