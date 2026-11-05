@@ -1,7 +1,7 @@
 {
   "doe-geap-gea7": {
     "failures": 0,
-    "last_ok": "2026-11-05T03:31:31+00:00",
+    "last_ok": "2026-11-05T03:56:16+00:00",
     "seen": [
       "https://doe.gov.ph/data/microgrid-mapping",
       "https://doe.gov.ph/fuel-subsidy-program-participating-stations-as-of-15-june-2026",
@@ -76,7 +76,7 @@
   },
   "test-hn": {
     "failures": 0,
-    "last_ok": "2026-11-05T03:31:31+00:00",
+    "last_ok": "2026-11-05T03:56:17+00:00",
     "seen": [
       "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
       "https://news.ycombinator.com/from?site=nasa.gov",
@@ -176,7 +176,25 @@
       "https://crateh.com/en",
       "https://news.ycombinator.com/from?site=crateh.com",
       "https://magiclayers.net",
-      "https://news.ycombinator.com/from?site=magiclayers.net"
+      "https://news.ycombinator.com/from?site=magiclayers.net",
+      "https://twitter.com/nicholasachow/status/2115839602749849840",
+      "https://news.ycombinator.com/from?site=twitter.com/nicholasachow",
+      "https://www.thebignewsletter.com/p/ten-things-to-know-about-this-crushing",
+      "https://news.ycombinator.com/from?site=thebignewsletter.com",
+      "https://letagents.talk/",
+      "https://news.ycombinator.com/from?site=letagents.talk",
+      "https://dbushell.com/2025/11/01/intent-to-deprecate-and-remove-google-chrome/",
+      "https://news.ycombinator.com/from?site=dbushell.com",
+      "https://ieeexplore.ieee.org/abstract/document/11196571",
+      "https://news.ycombinator.com/from?site=ieee.org",
+      "https://news.ycombinator.com/item?id=50374845",
+      "https://septaro.com",
+      "https://news.ycombinator.com/from?site=septaro.com",
+      "https://phys.org/news/2026-11-arctic-ocean-bacteria-acetone-carbon.html",
+      "https://news.ycombinator.com/from?site=phys.org",
+      "https://klaxon.live/en",
+      "https://news.ycombinator.com/from?site=klaxon.live",
+      "https://arxiv.org/abs/2609.32778"
     ]
   }
 }
