@@ -24,23 +24,16 @@ defaults:
 watchers:
   - name: doe-geap-gea7
     description: DOE Green Energy Auction page (GEA-7)
-    url: https://doe.gov.ph/geap   # check this in a browser first and update if DOE has moved it
+    url: https://doe.gov.ph/renewable-energy-programs
     keywords:
       - GEA-7
       - GEA7
       - seventh green energy auction
       - 7th green energy auction
       - seventh round
-      
+
   - name: test-hn
-       description: TEST - Hacker News newest
-       url: https://news.ycombinator.com/newest
-       selector: span.titleline
-       keywords: []
-  # Example: a second site going to its own Teams channel
-  # - name: erc-news
-  #   description: ERC news releases
-  #   url: https://www.erc.gov.ph/...
-  #   keywords: [green energy auction, GEAR price]
-  #   teams_webhook_secret: TEAMS_WEBHOOK_ERC
-  #   enabled: false
+    description: TEST - Hacker News newest
+    url: https://news.ycombinator.com/newest
+    selector: span.titleline
+    keywords: []
