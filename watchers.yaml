@@ -20,6 +20,7 @@ defaults:
   alert_after_failures: 3   # consecutive failed checks before a "monitor broken" alert
   verify_ssl: true
   email_to: []
+  teams_webhook_secrets: [TEAMS_WEBHOOK_URL, TEAMS_WEBHOOK_TEAM]
 
 watchers:
   - name: doe-geap-gea7
