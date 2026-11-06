@@ -173,7 +173,8 @@ def send_email(recipients, title, source_url, items, note=None):
 
 def notify(watcher, title, items, note=None, dry_run=False):
     """Send to every configured channel. Returns True if at least one channel worked (or none is set)."""
-    webhook = secret(watcher.get("teams_webhook_secret") or "TEAMS_WEBHOOK_URL")
+    names = watcher.get("teams_webhook_secrets") or [watcher.get("teams_webhook_secret") or "TEAMS_WEBHOOK_URL"]
+    webhooks = [u for u in (secret(n) for n in names) if u]
     recipients = list(watcher.get("email_to") or [])
     recipients += [e.strip() for e in (secret("EMAIL_TO") or "").split(",") if e.strip()]
     recipients = sorted(set(recipients))
@@ -185,10 +186,10 @@ def notify(watcher, title, items, note=None, dry_run=False):
         return True
 
     attempted, delivered = 0, 0
-    if webhook:
+    for hook in webhooks:
         attempted += 1
         try:
-            send_teams(webhook, title, watcher["url"], items, note)
+            send_teams(hook, title, watcher["url"], items, note)
             delivered += 1
         except Exception as e:
             print(f"  Teams send failed: {e}")
