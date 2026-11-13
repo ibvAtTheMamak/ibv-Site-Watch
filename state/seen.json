@@ -1,7 +1,7 @@
 {
   "doe-geap-gea7": {
     "failures": 0,
-    "last_ok": "2026-11-13T00:10:32+00:00",
+    "last_ok": "2026-11-13T00:20:27+00:00",
     "seen": [
       "https://doe.gov.ph/data/microgrid-mapping",
       "https://doe.gov.ph/fuel-subsidy-program-participating-stations-as-of-15-june-2026",
@@ -72,7 +72,11 @@
       "https://doe.gov.ph/renewable-energy-programs/green-energy-auction-2-ad/gea-2/advisory-1",
       "https://doe.gov.ph/renewable-energy-programs/green-energy-auction-2-bb/gea-2/bid-bulletin-1",
       "https://doe.gov.ph/renewable-energy-projects/eligible-re-power-plants-for-rps-compliance",
-      "https://doe.gov.ph/gea-1-notice-of-auction"
+      "https://doe.gov.ph/gea-1-notice-of-auction",
+      "https://doe.gov.ph/gea-1-advisory",
+      "https://doe.gov.ph/gea-1-term-of-reference-tor",
+      "https://doe.gov.ph/gea-1-bid-bulletin",
+      "https://doe.gov.ph/gea-1-notice-of-award"
     ]
   },
   "test-hn": {
