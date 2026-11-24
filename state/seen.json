@@ -1,7 +1,7 @@
 {
   "doe-geap-gea7": {
     "failures": 0,
-    "last_ok": "2026-11-24T20:11:47+00:00",
+    "last_ok": "2026-11-24T20:20:33+00:00",
     "seen": [
       "https://doe.gov.ph/data/microgrid-mapping",
       "https://doe.gov.ph/fuel-subsidy-program-participating-stations-as-of-15-june-2026",
@@ -76,7 +76,36 @@
       "https://doe.gov.ph/gea-1-advisory",
       "https://doe.gov.ph/gea-1-term-of-reference-tor",
       "https://doe.gov.ph/gea-1-bid-bulletin",
-      "https://doe.gov.ph/gea-1-notice-of-award"
+      "https://doe.gov.ph/gea-1-notice-of-award",
+      "https://doe.gov.ph/about",
+      "https://doe.gov.ph/about/careers",
+      "https://doe.gov.ph/about/gender-development",
+      "https://doe.gov.ph/bureaus",
+      "https://doe.gov.ph/field-offices",
+      "https://doe.gov.ph/field-offices/visayas",
+      "https://doe.gov.ph/field-offices/mindanao",
+      "https://doe.gov.ph/data",
+      "https://doe.gov.ph/prices",
+      "https://doe.gov.ph/prices/electricity",
+      "https://doe.gov.ph/prices/fuels",
+      "https://doe.gov.ph/prices/lpg",
+      "https://doe.gov.ph/prices/fuel-discounts",
+      "https://doe.gov.ph/laws-policies",
+      "https://doe.gov.ph/laws-policies/laws",
+      "https://doe.gov.ph/laws-policies/issuances",
+      "https://doe.gov.ph/policies-programs",
+      "https://doe.gov.ph/services",
+      "https://doe.gov.ph/services/fees-and-charges",
+      "https://doe.gov.ph/consumers",
+      "https://doe.gov.ph/investors",
+      "https://doe.gov.ph/news",
+      "https://doe.gov.ph/news/press-releases",
+      "https://doe.gov.ph/procurement",
+      "https://doe.gov.ph/transparency/financial-reports",
+      "https://doe.gov.ph/transparency/foi",
+      "https://doe.gov.ph/contact",
+      "https://doe.gov.ph/legal/privacy",
+      "https://doe.gov.ph/legal/terms"
     ]
   },
   "test-hn": {
