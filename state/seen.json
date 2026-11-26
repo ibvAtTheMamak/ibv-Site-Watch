@@ -1,7 +1,7 @@
 {
   "doe-geap-gea7": {
     "failures": 0,
-    "last_ok": "2026-11-26T07:00:43+00:00",
+    "last_ok": "2026-11-26T07:10:28+00:00",
     "seen": [
       "https://doe.gov.ph/data/microgrid-mapping",
       "https://doe.gov.ph/fuel-subsidy-program-participating-stations-as-of-15-june-2026",
@@ -107,7 +107,8 @@
       "https://doe.gov.ph/legal/privacy",
       "https://doe.gov.ph/legal/terms",
       "https://doe.gov.ph/gea-2-bid-bulletin",
-      "https://doe.gov.ph/gea-1-bid-bulletin-1-2"
+      "https://doe.gov.ph/gea-1-bid-bulletin-1-2",
+      "https://doe.gov.ph/gea-2-advisory-1-2"
     ]
   },
   "test-hn": {
